@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dill Layout</title>
+
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+            margin-top: 50px;
+        }
+
+        .small-dill {
+            font-size: 30px;
+            margin: 5px;
+        }
+
+        .big-dill {
+            font-size: 120px;
+            margin-top: 20px;
+        }
+
+        .text-line {
+            font-size: 28px;
+            margin-top: 20px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Five small dill stickers -->
+    <div>
+        <span class="small-dill">💚</span>
+        <span class="small-dill">💚</span>
+        <span class="small-dill">💚</span>
+        <span class="small-dill">💚</span>
+        <span class="small-dill">💚</span>
+    </div>
+
+    <!-- Big center dill -->
+    <div class="big-dill">💚</div>
+
+    <!-- Second line text -->
+   </br>
+    <div class="text-line">My Life Line Aryz Mughal</div>
+</br>
+<video width="600" height="350" controls autoplay muted loop>
+    <source src="aryz.jameelijaz.mp4" type="video/mp4">
+    <source src="video.webm" type="video/webm">
+
+</body>
+</html>
